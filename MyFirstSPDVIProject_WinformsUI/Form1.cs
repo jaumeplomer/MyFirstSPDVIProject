@@ -19,7 +19,7 @@ namespace MyFirstSPDVIProject_WinformsUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HolaXavi merci");
+            MessageBox.Show("Tonto el que lo lea");
         }
     }
 }
