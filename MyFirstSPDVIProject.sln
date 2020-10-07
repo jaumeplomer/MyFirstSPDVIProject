@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstSPDVIProject_Console", "MyFirstSPDVIProject_Console\MyFirstSPDVIProject_Console.csproj", "{496A09A4-576D-438E-BF71-DFC075EFADBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstSPDVIProject_WinformsUI", "MyFirstSPDVIProject_WinformsUI\MyFirstSPDVIProject_WinformsUI.csproj", "{1DCCA2AC-8748-491B-8CFE-853DE093C5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496A09A4-576D-438E-BF71-DFC075EFADBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496A09A4-576D-438E-BF71-DFC075EFADBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496A09A4-576D-438E-BF71-DFC075EFADBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496A09A4-576D-438E-BF71-DFC075EFADBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCCA2AC-8748-491B-8CFE-853DE093C5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCCA2AC-8748-491B-8CFE-853DE093C5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCCA2AC-8748-491B-8CFE-853DE093C5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCCA2AC-8748-491B-8CFE-853DE093C5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C6D7E9-7B53-4553-9E55-5250D967541F}
+	EndGlobalSection
+EndGlobal
